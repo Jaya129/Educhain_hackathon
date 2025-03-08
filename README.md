@@ -86,6 +86,3 @@ console.log("Successfully joined the lottery!");
 ## 📜 **License**  
 This project is licensed under the **GPL-3.0** License.  
 
----
-
-### 🚀 **Happy Coding & Good Luck with the Lottery!** 🎉
